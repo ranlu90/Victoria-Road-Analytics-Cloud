@@ -1,3 +1,5 @@
+![alt text](https://github.com/ranlu90/Victoria-Road-Analytics-Cloud/blob/master/%20doc_images/studio.jpeg)
+
 Data and cloud services being used are as following:
 
 - Crash Stats</br>
