@@ -6,7 +6,7 @@ https://www.data.vic.gov.au/data/dataset/crash-stats-data-extract
 - Traffic Volumes</br>
 http://vicroadsopendata.vicroadsmaps.opendata.arcgis.com/datasets/147696bb47544a209e0a5e79e165d1b0_0
 
-- Amazon S3 for Elastic Beanstalk results</br>
+- Amazon S3 for Amazon Elastic MapReduce results</br>
 
 - Google API Server</br>
 
@@ -14,9 +14,9 @@ http://vicroadsopendata.vicroadsmaps.opendata.arcgis.com/datasets/147696bb47544a
 
 - Google Sheets for Accidents Records</br>
 
-- User Webpage for Google BigQuery Results </br>
+- Google BigQuery</br>
 
-- User Webpage for Google BigQuery Results Using Google API</br>
+- Google Data Studio for an user-friendly visual presentation</br>
 
 ## Project Summary
 
