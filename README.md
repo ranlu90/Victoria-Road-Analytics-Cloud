@@ -18,7 +18,7 @@ http://vicroadsopendata.vicroadsmaps.opendata.arcgis.com/datasets/147696bb47544a
 
 - Google BigQuery</br>
 
-- Google Data Studio for an user-friendly visual presentation</br>
+- Google Data Studio for a user-friendly visual presentation
 
 ## Project Summary
 
