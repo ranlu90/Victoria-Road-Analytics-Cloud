@@ -6,7 +6,7 @@ https://www.data.vic.gov.au/data/dataset/crash-stats-data-extract
 - Traffic Volumes</br>
 http://vicroadsopendata.vicroadsmaps.opendata.arcgis.com/datasets/147696bb47544a209e0a5e79e165d1b0_0
 
-- Amazon S3 for Elastic Beanstalk results with viewing access</br>
+- Amazon S3 for Elastic Beanstalk results</br>
 
 - Google API Server</br>
 
